@@ -1,4 +1,4 @@
-# evolv
+# Evolv DNA GO
 Export of the parameters for my DNA GO chipset. 
 One parameter modified from the manufacturer settings : cutoff is set at 10s rather than 5s in factory settings.
 
